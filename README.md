@@ -1,10 +1,9 @@
 <h1> Store Sales Prediction </h1>
 <h2> Rossmann Store Sales </h2>
-<h4> Sales forecast project, using Machine Learning tools to solve the problem. </h4>
-<img src='https://www.city-galerie-wolfsburg.de/fileadmin/user_upload/GLOBAL/brand_stores/logos/rossmann.jpg'>
-
+<body> Sales forecast project, using Machine Learning tools to solve the problem. </body>
+<img src='https://www.alejabielany.pl/-/media/images/b2c/poland/shared/shop-logo/pl_logo_rossmann.ashx?h=433&iar=0&mw=650&w=650&hash=C0978345A8082E8CB47F023DF94CB44F'>
 <h2>Tools Used</h2>
-<h4> 
+<body> 
 <ol>
 <li> Python;</li>
 <li> Jupyter Notebook;</li>
@@ -15,5 +14,5 @@
 <li> Técnicas de Seleção de Atributos e Redução de Dimensionalidade</li>
 <li>  Flask e Python API's</li>
 </ol>
-</h4>
+</body>
 
